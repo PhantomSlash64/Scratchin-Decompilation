@@ -1,9 +1,0 @@
-{
-  "name": "Cinemachine",
-  "references": [
-    "Unity.Timeline",
-    "clipper_library",
-    "Unity.Postprocessing.Runtime"
-  ],
-  "allowUnsafeCode": true
-}
