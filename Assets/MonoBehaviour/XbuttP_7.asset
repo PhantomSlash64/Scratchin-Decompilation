@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c22cfc3c53b3a958b568335419c56f0, type: 3}
+  m_Name: XbuttP
+  m_EditorClassIdentifier:
+  mEventID: XbuttP
+  mEventList:
+  - mStartSample: 477966
+    mEndSample: 480960
+  - mStartSample: 511241
+    mEndSample: 514235
+  - mStartSample: 593795
+    mEndSample: 596789
+  - mStartSample: 643440
+    mEndSample: 646434
+  - mStartSample: 1123122
+    mEndSample: 1126116
+  - mStartSample: 1172536
+    mEndSample: 1175530
+  - mStartSample: 1660580
+    mEndSample: 1663574
+  - mStartSample: 1677094
+    mEndSample: 1680088
+  - mStartSample: 2379784
+    mEndSample: 2382778
+  - mStartSample: 2396460
+    mEndSample: 2399454
+  - mStartSample: 2743752
+    mEndSample: 2746746
+  - mStartSample: 3140667
+    mEndSample: 3143661
+  - mStartSample: 3239903
+    mEndSample: 3242897
+  - mStartSample: 3289224
+    mEndSample: 3292218
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs:
+  _ColorPayloads: []
+  _ColorPayloadIdxs:
+  _CurvePayloads: []
+  _CurvePayloadIdxs:
+  _FloatPayloads: []
+  _FloatPayloadIdxs:
+  _GradientPayloads: []
+  _GradientPayloadIdxs:
+  _IntPayloads: []
+  _IntPayloadIdxs:
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs:
+  _TextPayloads: []
+  _TextPayloadIdxs:

@@ -1,0 +1,25 @@
+internal enum yOaQOYTcNdCarVmUleypAzMAqkTo
+{
+	fjACQeqAmOeFqKpPLZyvgxxYgvt = 0,
+	ugepTFkhIVcuQVvBqXoLPuNOBdh = 1,
+	ZrBnfuwUWUDWyPFfpcmGOPnJRxH = 2,
+	iSfPvNqwyzShnCLETHWovyUdagU = 3,
+	leicyqWTkceVHiDKUIFaotUKEtg = 4,
+	lnvEPvMuUHEuCRpCGrBPZhvrKKv = 5,
+	QEZrTIOkwMPcrgiKSgCbkIoLpMPT = 6,
+	bAiqlLFuTETRzqNcjxIqQCNqccbD = 7,
+	HWpkoLElvmTfaUmHEmBxsOPncRl = 8,
+	CADjaDIyfLWOtgOybirTbdeAxmmP = 9,
+	nhABTmgEjKzddOYcXdmxUxaoScD = 10,
+	JofZFvUjBXKJJnIpYywfGeSiYNr = 11,
+	xPNZlfUCTMFUaKNbFGOZAZAfgsnT = 12,
+	eAETbWfRwSGAHvEkTDihPaAOTbd = 13,
+	ENpqjIaFGKEgIRHDgBdxpHpGJQj = 14,
+	HSTDeRIHzmcuLVAJCmciCYuwOBm = 15,
+	DhLAtPyDBcQhPYnLXxlIUwLyNbq = 16,
+	KAKTuIuNEBRZqzhZxRcoMnBKJbR = 64,
+	hTgqckxLrMBVzHfuoQsBRoDJktYv = 65,
+	KqkZNGdJhfczrsrkgaftlnYZJzl = 66,
+	tgwlMJQUDkCAHStrPvwmtzLdBDY = 67,
+	cLKgHnVIjFFHIacNlaMqzVqCZDt = 68
+}

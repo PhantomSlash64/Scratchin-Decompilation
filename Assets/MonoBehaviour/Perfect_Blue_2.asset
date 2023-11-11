@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c22cfc3c53b3a958b568335419c56f0, type: 3}
+  m_Name: Perfect_Blue
+  m_EditorClassIdentifier:
+  mEventID: Perfect_Blue
+  mEventList:
+  - mStartSample: 264600
+    mEndSample: 264600
+  - mStartSample: 281137
+    mEndSample: 281137
+  - mStartSample: 289351
+    mEndSample: 289351
+  - mStartSample: 297675
+    mEndSample: 297675
+  - mStartSample: 314212
+    mEndSample: 314212
+  - mStartSample: 322426
+    mEndSample: 322426
+  - mStartSample: 347287
+    mEndSample: 347287
+  - mStartSample: 363825
+    mEndSample: 363825
+  - mStartSample: 479587
+    mEndSample: 479587
+  - mStartSample: 512662
+    mEndSample: 512662
+  - mStartSample: 595350
+    mEndSample: 595350
+  - mStartSample: 611887
+    mEndSample: 611887
+  - mStartSample: 628425
+    mEndSample: 628425
+  - mStartSample: 644962
+    mEndSample: 644962
+  - mStartSample: 793800
+    mEndSample: 793800
+  - mStartSample: 810337
+    mEndSample: 810337
+  - mStartSample: 818551
+    mEndSample: 818551
+  - mStartSample: 826875
+    mEndSample: 826875
+  - mStartSample: 843412
+    mEndSample: 843412
+  - mStartSample: 851626
+    mEndSample: 851626
+  - mStartSample: 876487
+    mEndSample: 876487
+  - mStartSample: 893025
+    mEndSample: 893025
+  - mStartSample: 942637
+    mEndSample: 942637
+  - mStartSample: 975712
+    mEndSample: 975712
+  - mStartSample: 1124550
+    mEndSample: 1124550
+  - mStartSample: 1141087
+    mEndSample: 1141087
+  - mStartSample: 1157238
+    mEndSample: 1157238
+  - mStartSample: 1174162
+    mEndSample: 1174162
+  - mStartSample: 1323000
+    mEndSample: 1323000
+  - mStartSample: 1356075
+    mEndSample: 1356075
+  - mStartSample: 1372612
+    mEndSample: 1372612
+  - mStartSample: 1380881
+    mEndSample: 1380881
+  - mStartSample: 1587600
+    mEndSample: 1587600
+  - mStartSample: 1604137
+    mEndSample: 1604137
+  - mStartSample: 1612406
+    mEndSample: 1612406
+  - mStartSample: 1620675
+    mEndSample: 1620675
+  - mStartSample: 1645481
+    mEndSample: 1645481
+  - mStartSample: 1662018
+    mEndSample: 1662018
+  - mStartSample: 1678556
+    mEndSample: 1678556
+  - mStartSample: 1686825
+    mEndSample: 1686825
+  - mStartSample: 2381400
+    mEndSample: 2381400
+  - mStartSample: 2397937
+    mEndSample: 2397937
+  - mStartSample: 2431012
+    mEndSample: 2431012
+  - mStartSample: 2439281
+    mEndSample: 2439281
+  - mStartSample: 2447550
+    mEndSample: 2447550
+  - mStartSample: 2464087
+    mEndSample: 2464087
+  - mStartSample: 2488893
+    mEndSample: 2488893
+  - mStartSample: 2646000
+    mEndSample: 2646000
+  - mStartSample: 2679075
+    mEndSample: 2679075
+  - mStartSample: 2712150
+    mEndSample: 2712150
+  - mStartSample: 2745225
+    mEndSample: 2745225
+  - mStartSample: 2761762
+    mEndSample: 2761762
+  - mStartSample: 2910600
+    mEndSample: 2910600
+  - mStartSample: 2927137
+    mEndSample: 2927137
+  - mStartSample: 2976750
+    mEndSample: 2976750
+  - mStartSample: 2984963
+    mEndSample: 2984963
+  - mStartSample: 2993287
+    mEndSample: 2993287
+  - mStartSample: 3001556
+    mEndSample: 3001556
+  - mStartSample: 3009977
+    mEndSample: 3009977
+  - mStartSample: 3018038
+    mEndSample: 3018038
+  - mStartSample: 3026362
+    mEndSample: 3026362
+  - mStartSample: 3034631
+    mEndSample: 3034631
+  - mStartSample: 3109050
+    mEndSample: 3109050
+  - mStartSample: 3125587
+    mEndSample: 3125587
+  - mStartSample: 3142125
+    mEndSample: 3142125
+  - mStartSample: 3158662
+    mEndSample: 3158662
+  - mStartSample: 3241350
+    mEndSample: 3241350
+  - mStartSample: 3257887
+    mEndSample: 3257887
+  - mStartSample: 3274425
+    mEndSample: 3274425
+  - mStartSample: 3290962
+    mEndSample: 3290962
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs:
+  _ColorPayloads: []
+  _ColorPayloadIdxs:
+  _CurvePayloads: []
+  _CurvePayloadIdxs:
+  _FloatPayloads: []
+  _FloatPayloadIdxs:
+  _GradientPayloads: []
+  _GradientPayloadIdxs:
+  _IntPayloads: []
+  _IntPayloadIdxs:
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs:
+  _TextPayloads: []
+  _TextPayloadIdxs:

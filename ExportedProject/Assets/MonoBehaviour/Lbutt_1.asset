@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c22cfc3c53b3a958b568335419c56f0, type: 3}
+  m_Name: Lbutt
+  m_EditorClassIdentifier:
+  mEventID: Lbutt
+  mEventList:
+  - mStartSample: 582122
+    mEndSample: 582122
+  - mStartSample: 882002
+    mEndSample: 882002
+  - mStartSample: 1128962
+    mEndSample: 1128962
+  - mStartSample: 2698922
+    mEndSample: 2698922
+  - mStartSample: 2734202
+    mEndSample: 2734202
+  - mStartSample: 2769482
+    mEndSample: 2769482
+  - mStartSample: 2822402
+    mEndSample: 2822402
+  - mStartSample: 3104642
+    mEndSample: 3104642
+  - mStartSample: 3686762
+    mEndSample: 3686762
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs:
+  _ColorPayloads: []
+  _ColorPayloadIdxs:
+  _CurvePayloads: []
+  _CurvePayloadIdxs:
+  _FloatPayloads: []
+  _FloatPayloadIdxs:
+  _GradientPayloads: []
+  _GradientPayloadIdxs:
+  _IntPayloads: []
+  _IntPayloadIdxs:
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs:
+  _TextPayloads: []
+  _TextPayloadIdxs:

@@ -1,0 +1,7 @@
+{
+  "name": "Rewired_Windows",
+  "references": [
+    "Rewired_Core"
+  ],
+  "allowUnsafeCode": true
+}

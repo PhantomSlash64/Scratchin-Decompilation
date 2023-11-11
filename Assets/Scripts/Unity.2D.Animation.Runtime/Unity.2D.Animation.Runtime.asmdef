@@ -1,0 +1,8 @@
+{
+  "name": "Unity.2D.Animation.Runtime",
+  "references": [
+    "Unity.Mathematics",
+    "Unity.InternalAPIEngineBridge.001"
+  ],
+  "allowUnsafeCode": true
+}

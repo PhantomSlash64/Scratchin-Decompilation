@@ -1,0 +1,7 @@
+{
+  "name": "E7.Introloop.Demo",
+  "references": [
+    "E7.Introloop"
+  ],
+  "allowUnsafeCode": true
+}
