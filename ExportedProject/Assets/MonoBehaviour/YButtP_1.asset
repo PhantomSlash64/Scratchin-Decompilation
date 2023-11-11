@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c22cfc3c53b3a958b568335419c56f0, type: 3}
+  m_Name: YButtP
+  m_EditorClassIdentifier:
+  mEventID: YbuttP
+  mEventList:
+  - mStartSample: 229320
+    mEndSample: 229320
+  - mStartSample: 809946
+    mEndSample: 812940
+  - mStartSample: 811442
+    mEndSample: 811442
+  - mStartSample: 818691
+    mEndSample: 821685
+  - mStartSample: 820262
+    mEndSample: 820262
+  - mStartSample: 827542
+    mEndSample: 830536
+  - mStartSample: 829082
+    mEndSample: 829082
+  - mStartSample: 1250758
+    mEndSample: 1253752
+  - mStartSample: 1252406
+    mEndSample: 1252406
+  - mStartSample: 1383022
+    mEndSample: 1386016
+  - mStartSample: 1384670
+    mEndSample: 1384670
+  - mStartSample: 3032610
+    mEndSample: 3035604
+  - mStartSample: 3034082
+    mEndSample: 3034082
+  - mStartSample: 3349983
+    mEndSample: 3352977
+  - mStartSample: 3351569
+    mEndSample: 3351569
+  - mStartSample: 3914568
+    mEndSample: 3917562
+  - mStartSample: 3916004
+    mEndSample: 3916004
+  - mStartSample: 3923300
+    mEndSample: 3926294
+  - mStartSample: 3924824
+    mEndSample: 3924824
+  - mStartSample: 3932150
+    mEndSample: 3935144
+  - mStartSample: 3933644
+    mEndSample: 3933644
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs:
+  _ColorPayloads: []
+  _ColorPayloadIdxs:
+  _CurvePayloads: []
+  _CurvePayloadIdxs:
+  _FloatPayloads: []
+  _FloatPayloadIdxs:
+  _GradientPayloads: []
+  _GradientPayloadIdxs:
+  _IntPayloads: []
+  _IntPayloadIdxs:
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs:
+  _TextPayloads: []
+  _TextPayloadIdxs:

@@ -1,0 +1,32 @@
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyConfiguration("")]
+[assembly: InternalsVisibleTo("Rewired_Linux")]
+[assembly: AssemblyProduct("Rewired")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Rewired Core")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: InternalsVisibleTo("Rewired_Editor")]
+[assembly: AssemblyCompany("Guavaman Enterprises")]
+[assembly: Guid("ecfc0337-34dc-46b5-a9d4-b8f38334a8dd")]
+[assembly: AssemblyCopyright("Copyright © 2014 Augie R. Maddox. All rights reserved.")]
+[assembly: AssemblyTrademark("Augie R. Maddox")]
+[assembly: ComVisible(false)]
+[assembly: InternalsVisibleTo("Rewired_Windows")]
+[assembly: InternalsVisibleTo("Rewired_NintendoSwitch")]
+[assembly: InternalsVisibleTo("Rewired_WebGL")]
+[assembly: InternalsVisibleTo("Rewired_NintendoSwitch_EditorRuntime")]
+[assembly: InternalsVisibleTo("Rewired_NintendoSwitch_Editor")]
+[assembly: InternalsVisibleTo("Rewired_OSX")]
+[assembly: InternalsVisibleTo("Rewired_GameCore")]
+[assembly: InternalsVisibleTo("Rewired_GameCore_EditorRuntime")]
+[assembly: InternalsVisibleTo("Rewired_GameCore_Editor")]
+[assembly: InternalsVisibleTo("Rewired_Stadia_Editor")]
+[assembly: InternalsVisibleTo("Rewired_Android")]
+[assembly: InternalsVisibleTo("Rewired_Stadia")]
+[assembly: InternalsVisibleTo("Rewired_Stadia_EditorRuntime")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[module: SuppressIldasm]

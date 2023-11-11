@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc288ee56768d9bdacabe3501a74d1d, type: 3}
+  m_Name: JamWellremixExample
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: abede1d47e831684997051be9bd17e6d, type: 2}
+  - {fileID: 11400000, guid: e1ed96f740fdb5e4ba94800ab6f83b2b, type: 2}
+  - {fileID: 11400000, guid: 806ee036a508e054bb99bcc75ea03a3e, type: 2}
+  - {fileID: 11400000, guid: 07f878ba936efa14d9129c5518048234, type: 2}
+  - {fileID: 11400000, guid: cc7e4ab284ef40b40b61afe7d492ef58, type: 2}
+  - {fileID: 11400000, guid: 2d245a53d05ce1f4fb9af2c3d8d2c137, type: 2}
+  - {fileID: 11400000, guid: 971465cbc06d7b844bdf8af678f773df, type: 2}
+  - {fileID: 11400000, guid: 6629a15377af7fd4784122c1767b8cb1, type: 2}
+  - {fileID: 11400000, guid: 9b2e74d3fb496754b8c759dce03d0974, type: 2}
+  - {fileID: 11400000, guid: 85edcc18eb237ce45839a2fc901614ff, type: 2}
+  - {fileID: 11400000, guid: bde25b82c7c2e934d811e35b1b61ab3b, type: 2}
+  - {fileID: 11400000, guid: 40fc82018d1d2d0468bd7e110f54fdf0, type: 2}
+  - {fileID: 11400000, guid: 01b1ecdee49a31241970128080292580, type: 2}
+  - {fileID: 11400000, guid: 822efc9f14fcd4843b60d9a435d1ffcb, type: 2}
+  - {fileID: 11400000, guid: 98d94d19adc2f284aba646bd43a149c0, type: 2}
+  - {fileID: 11400000, guid: f7a57370d81ef1b499bd7e5275eaa6cb, type: 2}
+  m_FixedDuration: 6.816666666666666
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 1
+  m_MarkerTrack: {fileID: 0}
